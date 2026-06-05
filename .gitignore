@@ -1,1 +1,5 @@
 .history/
+
+# KiCad local library path config
+**/sym-lib-table
+**/fp-lib-table
