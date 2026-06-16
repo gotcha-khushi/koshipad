@@ -4455,7 +4455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33cf6975-8305-4c6f-858b-43d929b1f61a")
-		(property "Reference" "D6"
+		(property "Reference" "D9"
 			(at 240.03 31.6798 0)
 			(hide yes)
 			(show_name no)
@@ -4529,7 +4529,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D6")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -5212,7 +5212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4580b90c-35ac-4dec-9721-af178d1d2a84")
-		(property "Reference" "D11"
+		(property "Reference" "D10"
 			(at 189.23 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -5286,7 +5286,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D11")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -5384,7 +5384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51d0dfca-3205-4b6b-933a-3ff043ae1617")
-		(property "Reference" "D8"
+		(property "Reference" "D13"
 			(at 278.13 31.6798 0)
 			(hide yes)
 			(show_name no)
@@ -5458,7 +5458,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D8")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -5724,7 +5724,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58d3b963-4718-40f5-bc8d-71143ff9e649")
-		(property "Reference" "D9"
+		(property "Reference" "D14"
 			(at 227.33 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -5798,7 +5798,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D9")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -5817,7 +5817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c8b0757-3f3e-441b-a206-51ec1b09b096")
-		(property "Reference" "D10"
+		(property "Reference" "D12"
 			(at 208.28 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -5891,7 +5891,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D10")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -5988,7 +5988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64b1b470-544c-4880-a6a1-6136f5557fc3")
-		(property "Reference" "D5"
+		(property "Reference" "D7"
 			(at 220.98 31.6798 0)
 			(hide yes)
 			(show_name no)
@@ -6062,7 +6062,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D5")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -7293,7 +7293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99dd8873-cde1-42c3-a809-1e7e3093b679")
-		(property "Reference" "D12"
+		(property "Reference" "D8"
 			(at 170.18 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -7367,7 +7367,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D12")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -7466,7 +7466,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a22b3765-fecb-469b-ad34-a794d93f3cac")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 201.93 31.6798 0)
 			(hide yes)
 			(show_name no)
@@ -7540,7 +7540,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8109,7 +8109,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c83a2c47-62c0-4d7e-83bf-fe6d8f1f5118")
-		(property "Reference" "D14"
+		(property "Reference" "D4"
 			(at 132.08 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -8183,7 +8183,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D14")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -8436,7 +8436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d962f659-d797-49c2-91b4-5555df6cd241")
-		(property "Reference" "D15"
+		(property "Reference" "D2"
 			(at 113.03 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -8510,7 +8510,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D15")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -8687,7 +8687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea35dc42-2aef-488a-9701-980bf22fc755")
-		(property "Reference" "D7"
+		(property "Reference" "D11"
 			(at 259.08 31.6798 0)
 			(hide yes)
 			(show_name no)
@@ -8761,7 +8761,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D7")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -9017,7 +9017,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2e15f04-af32-46b3-8317-b13940cd0ebf")
-		(property "Reference" "D13"
+		(property "Reference" "D6"
 			(at 151.13 75.0002 0)
 			(hide yes)
 			(show_name no)
@@ -9091,7 +9091,7 @@
 		(instances
 			(project "kicad files"
 				(path "/88ceca4b-52c7-47e0-8744-4f7df2c73c46"
-					(reference "D13")
+					(reference "D6")
 					(unit 1)
 				)
 			)
