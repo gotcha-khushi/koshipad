@@ -375,7 +375,29 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/MX .STEP"
+			(offset
+				(xyz 4.445 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
 			)
 		)
 	)
@@ -1075,6 +1097,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -1365,6 +1398,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 1.27)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 180 -0)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -1788,6 +1843,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/Ël  h.STEP"
+			(offset
+				(xyz 6.985 -2.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -2610,7 +2676,7 @@
 		(property "Reference" "J2"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "20cc0e23-747f-4e8e-a75e-bc395b3365c9")
+			(uuid "20cc210e-a402-4dd0-a44a-47f08026cd6f")
 			(effects
 				(font
 					(size 1 1)
@@ -2621,7 +2687,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 10 0)
 			(layer "F.Fab")
-			(uuid "976a60ab-e67b-476c-90b2-12a0ee734f1e")
+			(uuid "1e776ec5-156f-460b-9b32-0a59a5b7ca4a")
 			(effects
 				(font
 					(size 1 1)
@@ -2633,7 +2699,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94d2945d-d4cf-4172-8a65-6d460f5f3fba")
+			(uuid "f40c804b-009c-4d3a-8baa-05215231136b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,7 +2710,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "462d371d-cf49-43bf-9881-7e1b4e627bd3")
+			(uuid "729e9a61-2b28-4deb-8601-0dd2c811981e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2862,6 +2928,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/0.91in OLED.STEP"
+			(offset
+				(xyz -17.78 -3.81 1.27)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -3153,7 +3230,18 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -4361,7 +4449,29 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -5061,6 +5171,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -5351,6 +5472,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
 			)
 		)
 	)
@@ -7776,6 +7908,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -7892,7 +8035,7 @@
 		(property "Reference" "SW5"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "488b2265-94b9-4728-965a-95d5fa118ca1")
+			(uuid "6fbbdb22-7619-4221-9be9-e1d363c124ff")
 			(effects
 				(font
 					(size 1 1)
@@ -7903,7 +8046,7 @@
 		(property "Value" "SW_Push_45deg"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "fb6e8615-6e55-4eae-a69c-52f84737ae90")
+			(uuid "857cd41f-d13b-460b-9f7d-d3a5e7a30f28")
 			(effects
 				(font
 					(size 1 1)
@@ -7916,7 +8059,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4608b4c-1006-484a-9bfd-c5b1e7184149")
+			(uuid "ae1cd8e4-44cf-4a4b-8206-459c745f0889")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7929,7 +8072,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1855795e-b628-4e48-a386-9158c5346c79")
+			(uuid "f69f7063-5892-4370-b792-22c15da9bda9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8172,6 +8315,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+			(offset
+				(xyz 5.08 2.54 0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 180)
 			)
 		)
 	)
@@ -15038,6 +15203,17 @@
 			(uuid "e4ca3ae3-d4b1-482c-9d13-e57e236a11df")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/Seeed Studio XIAO ESP32-C5.step"
+			(offset
+				(xyz 6.35 -1.905 -0.635)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "B.Cu")
