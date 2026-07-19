@@ -378,26 +378,15 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "${KIPRJMOD}/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 4.445 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 180)
-			)
-		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
-			(offset
-				(xyz 5.08 2.54 0.635)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1097,15 +1086,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1400,26 +1389,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/MX .STEP"
+		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 1.27)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 90 180 -0)
-			)
-		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
-			(offset
-				(xyz 5.08 2.54 0.635)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3244,6 +3222,17 @@
 				(xyz -90 -0 -180)
 			)
 		)
+		(model "${KOSHITEMP}/MX_Switch.step"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -4452,26 +4441,15 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "${KIPRJMOD}/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
-			)
-		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
-			(offset
-				(xyz 5.08 2.54 0.635)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5171,15 +5149,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -5474,15 +5452,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -7908,15 +7886,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8317,26 +8295,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/MX .STEP"
+		(model "${KOSHITEMP}/MX_Switch.step"
 			(offset
-				(xyz 5.08 2.54 0.635)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -180)
-			)
-		)
-		(model "C:/Users/KHUSHI/Documents/GitHub/koshipad/3D Models/MX .STEP"
-			(offset
-				(xyz 5.08 2.54 0.635)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 180)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
