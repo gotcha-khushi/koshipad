@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../Grebers/",
+      "plot": "../Assets/",
       "specctra_dsn": "",
       "vrml": ""
     },
