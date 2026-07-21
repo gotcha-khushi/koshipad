@@ -1,6 +1,23 @@
 # KoshiPad
 
 KoshiPad is a compact 9-key macropad. It features a 128×32 OLED display, per-key RGB backlighting, a rotary encoder, and a custom-designed PCB and enclosure.
+<img width="2000" height="1500" alt="assembled" src="https://github.com/user-attachments/assets/475140d7-0afa-47cf-9dda-d252502c75fb" />
+Made in Fusion 360
+
+## PCB
+
+Schematic
+
+<img width="500" height="400" alt="Schematic" src="https://github.com/user-attachments/assets/80170ff6-1f2d-4fb7-9671-81b27fc3a9bf" />
+
+
+
+PCB
+
+<img width="500" height="400" alt="PCB" src="https://github.com/user-attachments/assets/a59a8935-0ac2-42b7-86de-0c95a48385e0" />
+
+Made in KiCad
+
 
 ## Features
 
